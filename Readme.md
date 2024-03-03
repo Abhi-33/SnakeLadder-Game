@@ -1,0 +1,1 @@
+# A Snake and ladder game made with the help of HTML and CSS and JavaScript and ia a full fledged working game with full functionality.
